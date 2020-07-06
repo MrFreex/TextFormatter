@@ -1,0 +1,10 @@
+C:\Users\fillo\source\repos\TextFormatter\bin\Release\TextFormatter.exe.config
+C:\Users\fillo\source\repos\TextFormatter\bin\Release\TextFormatter.exe
+C:\Users\fillo\source\repos\TextFormatter\bin\Release\TextFormatter.pdb
+C:\Users\fillo\source\repos\TextFormatter\obj\Release\TextFormatter.csprojAssemblyReference.cache
+C:\Users\fillo\source\repos\TextFormatter\obj\Release\TextFormatter.textFormatterForm.resources
+C:\Users\fillo\source\repos\TextFormatter\obj\Release\TextFormatter.Properties.Resources.resources
+C:\Users\fillo\source\repos\TextFormatter\obj\Release\TextFormatter.csproj.GenerateResource.cache
+C:\Users\fillo\source\repos\TextFormatter\obj\Release\TextFormatter.csproj.CoreCompileInputs.cache
+C:\Users\fillo\source\repos\TextFormatter\obj\Release\TextFormatter.exe
+C:\Users\fillo\source\repos\TextFormatter\obj\Release\TextFormatter.pdb

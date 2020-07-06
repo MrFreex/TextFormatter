@@ -52,6 +52,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.output = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -292,12 +293,24 @@
             this.output.Size = new System.Drawing.Size(620, 47);
             this.output.TabIndex = 7;
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.Color.White;
+            this.label6.Location = new System.Drawing.Point(1202, 678);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(146, 29);
+            this.label6.TabIndex = 8;
+            this.label6.Text = "By MrFreex";
+            // 
             // textFormatterForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
             this.ClientSize = new System.Drawing.Size(1370, 729);
+            this.Controls.Add(this.label6);
             this.Controls.Add(this.output);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.format_button);
@@ -343,6 +356,7 @@
         private System.Windows.Forms.TextBox txtfilename;
         private System.Windows.Forms.TextBox output;
         private System.Windows.Forms.Button loadprof;
+        private System.Windows.Forms.Label label6;
     }
 }
 
