@@ -315,6 +315,7 @@ namespace TextFormatter
            if (createNew)
             {
                 profileName = saveprofileas.Text;
+                profilesel.Items.Add(profileName);
             } else
             {
                 profileName = Convert.ToString(profilesel.SelectedItem);
